@@ -1,0 +1,535 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\6f9b45183880781791c2e009cde529f5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\840e3922fadebcd70b0b9b387866bea0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\94fc1dc477d11c4fc46ea9a495685500\AndroidManifest.xml:17:1-22:12
+MERGED from [com.tinkerpatch.sdk:tinkerpatch-android-sdk:1.2.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinkerpatch-android-sdk-1.2.12.aar\c8ccc6d332614fc4ca79bf81ccf983b2\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\4b95c2698585bb6f30a9d523e3b14991\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\5cf6912d44808d999892a29be3a55ccc\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\718d4c92dcaa50e63945f15903cf8c16\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\cff13fa6ef97c28149ecd51409cba259\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\beebc904eb82438074965e126a2cc2d1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\c4bcb81766db93e3a4ffd057e03dcd18\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\655213b1c2632a5f3580154bd267f968\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\62c510985742404c989a8ad43b276cb0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.tinkerpatch.tinker:tinker-android-lib:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-lib-1.9.12.aar\6ce474d3837bd69d0202d0b479f0cc02\AndroidManifest.xml:2:1-35:12
+MERGED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:2:1-161:12
+INJECTED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.tinkerpatch.sdk:tinkerpatch-android-sdk:1.2.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinkerpatch-android-sdk-1.2.12.aar\c8ccc6d332614fc4ca79bf81ccf983b2\AndroidManifest.xml:10:5-67
+MERGED from [com.tinkerpatch.sdk:tinkerpatch-android-sdk:1.2.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinkerpatch-android-sdk-1.2.12.aar\c8ccc6d332614fc4ca79bf81ccf983b2\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:7:22-77
+application
+ADDED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:9:5-25:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\6f9b45183880781791c2e009cde529f5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\6f9b45183880781791c2e009cde529f5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\840e3922fadebcd70b0b9b387866bea0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\840e3922fadebcd70b0b9b387866bea0\AndroidManifest.xml:9:5-20
+MERGED from [com.tinkerpatch.sdk:tinkerpatch-android-sdk:1.2.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinkerpatch-android-sdk-1.2.12.aar\c8ccc6d332614fc4ca79bf81ccf983b2\AndroidManifest.xml:13:5-22:19
+MERGED from [com.tinkerpatch.sdk:tinkerpatch-android-sdk:1.2.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinkerpatch-android-sdk-1.2.12.aar\c8ccc6d332614fc4ca79bf81ccf983b2\AndroidManifest.xml:13:5-22:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\4b95c2698585bb6f30a9d523e3b14991\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\4b95c2698585bb6f30a9d523e3b14991\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\5cf6912d44808d999892a29be3a55ccc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\5cf6912d44808d999892a29be3a55ccc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\718d4c92dcaa50e63945f15903cf8c16\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\718d4c92dcaa50e63945f15903cf8c16\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\cff13fa6ef97c28149ecd51409cba259\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\cff13fa6ef97c28149ecd51409cba259\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\beebc904eb82438074965e126a2cc2d1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\beebc904eb82438074965e126a2cc2d1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\c4bcb81766db93e3a4ffd057e03dcd18\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\c4bcb81766db93e3a4ffd057e03dcd18\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\655213b1c2632a5f3580154bd267f968\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\655213b1c2632a5f3580154bd267f968\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\62c510985742404c989a8ad43b276cb0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\62c510985742404c989a8ad43b276cb0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.tinkerpatch.tinker:tinker-android-lib:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-lib-1.9.12.aar\6ce474d3837bd69d0202d0b479f0cc02\AndroidManifest.xml:9:5-33:19
+MERGED from [com.tinkerpatch.tinker:tinker-android-lib:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-lib-1.9.12.aar\6ce474d3837bd69d0202d0b479f0cc02\AndroidManifest.xml:9:5-33:19
+MERGED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:9:5-159:19
+MERGED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:9:5-159:19
+	android:supportsRtl
+		ADDED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:16:9-40
+	android:usesCleartextTraffic
+		ADDED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:17:9-44
+	android:name
+		ADDED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:10:9-28
+activity#com.zzj.mvp.tinkerdemo.MainActivity
+ADDED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:18:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\6f9b45183880781791c2e009cde529f5\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\6f9b45183880781791c2e009cde529f5\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\840e3922fadebcd70b0b9b387866bea0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\840e3922fadebcd70b0b9b387866bea0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\94fc1dc477d11c4fc46ea9a495685500\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\94fc1dc477d11c4fc46ea9a495685500\AndroidManifest.xml:20:5-43
+MERGED from [com.tinkerpatch.sdk:tinkerpatch-android-sdk:1.2.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinkerpatch-android-sdk-1.2.12.aar\c8ccc6d332614fc4ca79bf81ccf983b2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.tinkerpatch.sdk:tinkerpatch-android-sdk:1.2.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinkerpatch-android-sdk-1.2.12.aar\c8ccc6d332614fc4ca79bf81ccf983b2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\4b95c2698585bb6f30a9d523e3b14991\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\4b95c2698585bb6f30a9d523e3b14991\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\5cf6912d44808d999892a29be3a55ccc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\5cf6912d44808d999892a29be3a55ccc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\718d4c92dcaa50e63945f15903cf8c16\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\718d4c92dcaa50e63945f15903cf8c16\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\cff13fa6ef97c28149ecd51409cba259\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\cff13fa6ef97c28149ecd51409cba259\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\beebc904eb82438074965e126a2cc2d1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\beebc904eb82438074965e126a2cc2d1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\c4bcb81766db93e3a4ffd057e03dcd18\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\c4bcb81766db93e3a4ffd057e03dcd18\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\655213b1c2632a5f3580154bd267f968\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\655213b1c2632a5f3580154bd267f968\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\62c510985742404c989a8ad43b276cb0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\62c510985742404c989a8ad43b276cb0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.tinkerpatch.tinker:tinker-android-lib:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-lib-1.9.12.aar\6ce474d3837bd69d0202d0b479f0cc02\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tinkerpatch.tinker:tinker-android-lib:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-lib-1.9.12.aar\6ce474d3837bd69d0202d0b479f0cc02\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:5:5-7:41
+INJECTED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\6f9b45183880781791c2e009cde529f5\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android_prj\TinkerDemo\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\6f9b45183880781791c2e009cde529f5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\4b95c2698585bb6f30a9d523e3b14991\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\4b95c2698585bb6f30a9d523e3b14991\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\5cf6912d44808d999892a29be3a55ccc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\5cf6912d44808d999892a29be3a55ccc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\718d4c92dcaa50e63945f15903cf8c16\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\718d4c92dcaa50e63945f15903cf8c16\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\cff13fa6ef97c28149ecd51409cba259\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\cff13fa6ef97c28149ecd51409cba259\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\beebc904eb82438074965e126a2cc2d1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\beebc904eb82438074965e126a2cc2d1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\c4bcb81766db93e3a4ffd057e03dcd18\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\c4bcb81766db93e3a4ffd057e03dcd18\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\655213b1c2632a5f3580154bd267f968\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\655213b1c2632a5f3580154bd267f968\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\62c510985742404c989a8ad43b276cb0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\62c510985742404c989a8ad43b276cb0\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\6f9b45183880781791c2e009cde529f5\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\6f9b45183880781791c2e009cde529f5\AndroidManifest.xml:27:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.tinkerpatch.sdk:tinkerpatch-android-sdk:1.2.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinkerpatch-android-sdk-1.2.12.aar\c8ccc6d332614fc4ca79bf81ccf983b2\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.tinkerpatch.sdk:tinkerpatch-android-sdk:1.2.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinkerpatch-android-sdk-1.2.12.aar\c8ccc6d332614fc4ca79bf81ccf983b2\AndroidManifest.xml:11:22-76
+service#com.tinkerpatch.sdk.tinker.service.TinkerServerResultService
+ADDED from [com.tinkerpatch.sdk:tinkerpatch-android-sdk:1.2.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinkerpatch-android-sdk-1.2.12.aar\c8ccc6d332614fc4ca79bf81ccf983b2\AndroidManifest.xml:14:9-17:72
+	android:exported
+		ADDED from [com.tinkerpatch.sdk:tinkerpatch-android-sdk:1.2.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinkerpatch-android-sdk-1.2.12.aar\c8ccc6d332614fc4ca79bf81ccf983b2\AndroidManifest.xml:16:13-37
+	android:permission
+		ADDED from [com.tinkerpatch.sdk:tinkerpatch-android-sdk:1.2.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinkerpatch-android-sdk-1.2.12.aar\c8ccc6d332614fc4ca79bf81ccf983b2\AndroidManifest.xml:17:13-69
+	android:name
+		ADDED from [com.tinkerpatch.sdk:tinkerpatch-android-sdk:1.2.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinkerpatch-android-sdk-1.2.12.aar\c8ccc6d332614fc4ca79bf81ccf983b2\AndroidManifest.xml:15:13-88
+receiver#com.tinkerpatch.sdk.server.utils.ReportBroadCast
+ADDED from [com.tinkerpatch.sdk:tinkerpatch-android-sdk:1.2.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinkerpatch-android-sdk-1.2.12.aar\c8ccc6d332614fc4ca79bf81ccf983b2\AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [com.tinkerpatch.sdk:tinkerpatch-android-sdk:1.2.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinkerpatch-android-sdk-1.2.12.aar\c8ccc6d332614fc4ca79bf81ccf983b2\AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [com.tinkerpatch.sdk:tinkerpatch-android-sdk:1.2.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinkerpatch-android-sdk-1.2.12.aar\c8ccc6d332614fc4ca79bf81ccf983b2\AndroidManifest.xml:20:13-76
+service#com.tencent.tinker.lib.service.TinkerPatchService
+ADDED from [com.tinkerpatch.tinker:tinker-android-lib:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-lib-1.9.12.aar\6ce474d3837bd69d0202d0b479f0cc02\AndroidManifest.xml:18:9-22:40
+	android:process
+		ADDED from [com.tinkerpatch.tinker:tinker-android-lib:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-lib-1.9.12.aar\6ce474d3837bd69d0202d0b479f0cc02\AndroidManifest.xml:22:13-37
+	android:exported
+		ADDED from [com.tinkerpatch.tinker:tinker-android-lib:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-lib-1.9.12.aar\6ce474d3837bd69d0202d0b479f0cc02\AndroidManifest.xml:20:13-37
+	android:permission
+		ADDED from [com.tinkerpatch.tinker:tinker-android-lib:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-lib-1.9.12.aar\6ce474d3837bd69d0202d0b479f0cc02\AndroidManifest.xml:21:13-69
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-lib:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-lib-1.9.12.aar\6ce474d3837bd69d0202d0b479f0cc02\AndroidManifest.xml:19:13-77
+service#com.tencent.tinker.lib.service.TinkerPatchService$InnerService
+ADDED from [com.tinkerpatch.tinker:tinker-android-lib:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-lib-1.9.12.aar\6ce474d3837bd69d0202d0b479f0cc02\AndroidManifest.xml:23:9-26:40
+	android:process
+		ADDED from [com.tinkerpatch.tinker:tinker-android-lib:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-lib-1.9.12.aar\6ce474d3837bd69d0202d0b479f0cc02\AndroidManifest.xml:26:13-37
+	android:exported
+		ADDED from [com.tinkerpatch.tinker:tinker-android-lib:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-lib-1.9.12.aar\6ce474d3837bd69d0202d0b479f0cc02\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-lib:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-lib-1.9.12.aar\6ce474d3837bd69d0202d0b479f0cc02\AndroidManifest.xml:24:13-90
+service#com.tencent.tinker.lib.service.DefaultTinkerResultService
+ADDED from [com.tinkerpatch.tinker:tinker-android-lib:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-lib-1.9.12.aar\6ce474d3837bd69d0202d0b479f0cc02\AndroidManifest.xml:29:9-32:72
+	android:exported
+		ADDED from [com.tinkerpatch.tinker:tinker-android-lib:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-lib-1.9.12.aar\6ce474d3837bd69d0202d0b479f0cc02\AndroidManifest.xml:31:13-37
+	android:permission
+		ADDED from [com.tinkerpatch.tinker:tinker-android-lib:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-lib-1.9.12.aar\6ce474d3837bd69d0202d0b479f0cc02\AndroidManifest.xml:32:13-69
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-lib:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-lib-1.9.12.aar\6ce474d3837bd69d0202d0b479f0cc02\AndroidManifest.xml:30:13-85
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_00
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:10:9-95
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:10:19-92
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_01
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:11:9-95
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:11:19-92
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_02
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:12:9-95
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:12:19-92
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_03
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:13:9-95
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:13:19-92
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_04
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:14:9-95
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:14:19-92
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_05
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:15:9-95
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:15:19-92
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_06
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:16:9-95
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:16:19-92
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_07
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:17:9-95
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:17:19-92
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_08
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:18:9-95
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:18:19-92
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_09
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:19:9-95
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:19:19-92
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_00_T
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:20:9-22:64
+	android:theme
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:22:13-61
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:21:13-88
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_01_T
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:23:9-25:64
+	android:theme
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:25:13-61
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:24:13-88
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_02_T
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:26:9-28:64
+	android:theme
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:28:13-61
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:27:13-88
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_00
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:29:9-31:46
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:31:13-43
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:30:13-86
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_01
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:32:9-34:46
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:33:13-86
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_02
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:35:9-37:46
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:37:13-43
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:36:13-86
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_03
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:38:9-40:46
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:40:13-43
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:39:13-86
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_04
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:41:9-43:46
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:43:13-43
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:42:13-86
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_05
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:44:9-46:46
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:46:13-43
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:45:13-86
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_06
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:47:9-49:46
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:49:13-43
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:48:13-86
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_07
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:50:9-52:46
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:52:13-43
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:51:13-86
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_08
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:53:9-55:46
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:55:13-43
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:54:13-86
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_09
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:56:9-58:46
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:58:13-43
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:57:13-86
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_00_T
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:59:9-62:64
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:61:13-43
+	android:theme
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:62:13-61
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:60:13-88
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_01_T
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:63:9-66:64
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:65:13-43
+	android:theme
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:66:13-61
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:64:13-88
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_02_T
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:67:9-70:64
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:69:13-43
+	android:theme
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:70:13-61
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:68:13-88
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_00
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:71:9-73:47
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:73:13-44
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:72:13-87
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_01
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:74:9-76:47
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:76:13-44
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:75:13-87
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_02
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:77:9-79:47
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:79:13-44
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:78:13-87
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_03
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:80:9-82:47
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:82:13-44
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:81:13-87
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_04
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:83:9-85:47
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:85:13-44
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:84:13-87
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_05
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:86:9-88:47
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:88:13-44
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:87:13-87
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_06
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:89:9-91:47
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:90:13-87
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_07
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:92:9-94:47
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:94:13-44
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:93:13-87
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_08
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:95:9-97:47
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:97:13-44
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:96:13-87
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_09
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:98:9-100:47
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:100:13-44
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:99:13-87
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_00_T
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:101:9-104:64
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:103:13-44
+	android:theme
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:104:13-61
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:102:13-89
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_01_T
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:105:9-108:64
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:107:13-44
+	android:theme
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:108:13-61
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:106:13-89
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_02_T
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:109:9-112:64
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:111:13-44
+	android:theme
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:112:13-61
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:110:13-89
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_00
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:113:9-115:51
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:115:13-48
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:114:13-85
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_01
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:116:9-118:51
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:118:13-48
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:117:13-85
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_02
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:119:9-121:51
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:121:13-48
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:120:13-85
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_03
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:122:9-124:51
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:124:13-48
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:123:13-85
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_04
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:125:9-127:51
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:127:13-48
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:126:13-85
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_05
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:128:9-130:51
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:130:13-48
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:129:13-85
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_06
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:131:9-133:51
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:133:13-48
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:132:13-85
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_07
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:134:9-136:51
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:136:13-48
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:135:13-85
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_08
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:137:9-139:51
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:139:13-48
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:138:13-85
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_09
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:140:9-142:51
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:142:13-48
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:141:13-85
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_00_T
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:143:9-146:64
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:145:13-48
+	android:theme
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:146:13-61
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:144:13-87
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_01_T
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:147:9-150:64
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:149:13-48
+	android:theme
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:150:13-61
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:148:13-87
+activity#com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_02_T
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:151:9-154:64
+	android:launchMode
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:153:13-48
+	android:theme
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:154:13-61
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:152:13-87
+meta-data#tinker_version
+ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:156:9-158:38
+	android:value
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:158:13-35
+	android:name
+		ADDED from [com.tinkerpatch.tinker:tinker-android-loader:1.9.12] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\tinker-android-loader-1.9.12.aar\46e75877e1017a97e5baeb68ed2327cc\AndroidManifest.xml:157:13-42

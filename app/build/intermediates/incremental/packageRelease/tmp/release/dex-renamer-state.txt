@@ -1,0 +1,4 @@
+#Tue May 21 11:04:43 CST 2019
+base.0=E\:\\Android_prj\\TinkerDemo\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

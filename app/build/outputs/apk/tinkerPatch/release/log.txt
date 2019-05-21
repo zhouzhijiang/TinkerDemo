@@ -1,0 +1,49 @@
+-----------------------Tinker patch begin-----------------------
+configuration: 
+oldApk:E:\Android_prj\TinkerDemo\app\build\bakApk/app-1.0.3-0521-10-52-09/release//app-release.apk
+newApk:E:\Android_prj\TinkerDemo\app\build\outputs\apk\release\app-release.apk
+outputFolder:E:\Android_prj\TinkerDemo\app\build\outputs\apk/tinkerPatch/release
+isIgnoreWarning:false
+isProtectedApp:false
+7-ZipPath:C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.tencent.mm\SevenZip\1.1.10\4786999cf29d8e3b0c39a80359b5127bda36132a\SevenZip-1.1.10-windows-x86_64.exe
+useSignAPk:true
+package meta fields: 
+dex configs: 
+dexMode: jar
+dexPattern:classes.*\.dex
+dex loader:com.tinkerpatch.sdk.loader.TinkerPatchReflectApplication
+dex loader:com.tencent.tinker.loader.*
+lib configs: 
+libPattern:lib/.*/.*\.so
+resource configs: 
+resPattern:r/.*
+resPattern:AndroidManifest\.xml
+resPattern:res/.*
+resPattern:assets/.*
+resPattern:resources\.arsc
+largeModSize:100kb
+useApplyResource:true
+
+Analyze old and new apk files:
+old apk: app-release.apk, size=1738596, md5=c7ecaa356fc54c8c30a2ed177081a126
+new apk: app-release.apk, size=1738608, md5=19d779f309bf7ae6f060cd5717d01f56
+
+Manifest has no changes, skip rest decode works.
+UnZipping apk to E:\Android_prj\TinkerDemo\app\build\outputs\apk\tinkerPatch\release\app-release-old
+UnZipping apk to E:\Android_prj\TinkerDemo\app\build\outputs\apk\tinkerPatch\release\app-release-new
+Check for loader classes in dex: classes.dex
+Found modify resource: res/layout/activity_main.xml
+No dexes were changed, nothing needs to be done next.
+Add Test resource file: assets/only_use_to_test_tinker_resource.txt
+Final normal zip resource: resources_out.zip, size=520312, md5=d624d41bdef5241f049eba01cacdb3cd
+Generate unsigned apk: patch_unsigned.apk
+Signing apk: patch_signed.apk
+Signing key algorithm is SHA1withRSA
+Try use 7za to compress the patch file: patch_signed_7zip.apk, will cost much more time
+Current 7za path:C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.tencent.mm\SevenZip\1.1.10\4786999cf29d8e3b0c39a80359b5127bda36132a\SevenZip-1.1.10-windows-x86_64.exe
+Result: final signed patch result: E:\Android_prj\TinkerDemo\app\build\outputs\apk\tinkerPatch\release\patch_signed.apk, size=3464
+Result: final signed with 7zip patch result: E:\Android_prj\TinkerDemo\app\build\outputs\apk\tinkerPatch\release\patch_signed_7zip.apk, size=4079
+Warning: patch_signed_7zip.apk is bigger than patch_signed.apk 615 byte, you should choose patch_signed.apk at these time!
+Tinker patch done, total time cost: 3.824000s
+Tinker patch done, you can go to file to find the output E:\Android_prj\TinkerDemo\app\build\outputs\apk/tinkerPatch/release
+-----------------------Tinker patch end-------------------------

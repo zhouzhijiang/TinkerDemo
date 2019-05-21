@@ -1,0 +1,5 @@
+#base package config field
+#Tue May 21 10:53:40 CST 2019
+NEW_TINKER_ID=tinker_id_1.0.3
+is_protected_app=0
+TINKER_ID=tinker_id_1.0.3

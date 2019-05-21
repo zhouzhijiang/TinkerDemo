@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue May 21 11:04:43 CST 2019
+0.baseType=DIRECTORY
+0.base=E\:\\Android_prj\\TinkerDemo\\app\\build\\intermediates\\transforms\\dex\\release\\0
+0.path=classes.dex
+0.set=DEX
+count=1
